@@ -1,4 +1,4 @@
-## NET Core 3.1 MVC REST API - Full course<
+## NET Core 3.1 MVC REST API - Full course
 
 This sample project is created after a youtube video (created by <i>Les Jackson</i>).
 The main scope is defining the most paverfull and common REST verbs in a .Net Core 3.1 project.
