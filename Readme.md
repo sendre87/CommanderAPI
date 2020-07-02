@@ -1,12 +1,12 @@
 <b>NET Core 3.1 MVC REST API - Full course</b>
 
-This sample project is created after a youtube video (made by Les Jackson).
+This sample project is created after a youtube video (made by <i>Les Jackson</i>).
 The main scope is defining the most paverfull and common REST verbs in a .Net Core 3.1 project.
 
 The video link is: 
 https://www.youtube.com/watch?v=fmvcAzHpsk8&feature=youtu.be
 
-As addition, with project is used the Swagger API descripter.
+As addition, with project is used the <b>Swagger</b> API descripter.
 
 Usefull link in this topic:
 https://swagger.io/docs/specification/2-0/what-is-swagger/
