@@ -8,7 +8,7 @@ The video link is:
 
 As addition, with project is used the <b>Swagger</b> API descripter.
 
-Usefull link in this topic:
+Usefull links in this topic:
  - https://swagger.io/docs/specification/2-0/what-is-swagger
  - https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio-code
 
