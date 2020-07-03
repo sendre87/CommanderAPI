@@ -6,6 +6,16 @@ The main scope is defining the most paverfull and common REST verbs in a .Net Co
 The video link is: 
  - https://www.youtube.com/watch?v=fmvcAzHpsk8&feature=youtu.be
 
+ Usefull "dotnet" commands:
+  - dotnet new webapi
+  - dotnet build
+  - dotnet run
+  - dotnet tool install --global dotnet-ef -> can use the "dotnet ef" command
+  - dotnet ef
+  - dotnet ef migrations add <Name of migrations>
+  - dotnet ef migrations remove
+  - dotnet ef database update - run migrations
+  
 As addition, with project is used the <b>Swagger</b> API descripter.
 
 Usefull links in this topic:
